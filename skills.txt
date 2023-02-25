@@ -1,0 +1,1 @@
+Мобильное тестирование, тестовая документация, git hub, postman, Jmeter, SQL, charles.
